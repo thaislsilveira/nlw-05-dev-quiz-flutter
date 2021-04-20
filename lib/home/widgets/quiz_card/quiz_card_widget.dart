@@ -1,4 +1,5 @@
 import 'package:DevQuiz/core/core.dart';
+import 'package:DevQuiz/home/widgets/progress_indicator/progress_indicator_widget.dart';
 import 'package:flutter/material.dart';
 
 class QuizCardWidget extends StatelessWidget {
@@ -45,10 +46,8 @@ class QuizCardWidget extends StatelessWidget {
               ),
               Expanded(
                 flex: 4,
-                child: LinearProgressIndicator(
+                child: ProgressIndicatorWidget(
                   value: 0.3,
-                  backgroundColor: AppColors.chartSecondary,
-                  valueColor: AlwaysStoppedAnimation<Color>(AppColors.chartPrimary),
                 )
               )              
             ],
