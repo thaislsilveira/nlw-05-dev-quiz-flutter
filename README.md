@@ -6,6 +6,12 @@ Um aplicativo desenvolvido durante a semana **Next Level Week#5** da [Rocketseat
 
 Um Quiz com informações sobre o tecnologias em geral para você testar seu conhecimento ✍🏽
 
+## Tecnologias utilizadas 🚀
+
+<ul>
+    <li><a href="https://flutter.dev/" target="_blank">Flutter</a></li>
+</ul>
+
 
 
 <h1 align='center'>Em construção 🚧 </h1> 
