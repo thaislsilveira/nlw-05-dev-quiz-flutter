@@ -50,7 +50,7 @@ class QuizCardWidget extends StatelessWidget {
               Expanded(
                 flex: 1,
                 child: Text(
-                  completed,
+                  this.completed,
                   style: AppTextStyles.body11,
                 ),
               ),

@@ -17,10 +17,10 @@
        {
         "title": "Está curtindo o Flutter?", 
         "answers": [
-         {"title": "Estou curtindo"},
+         {"title": "Estou curtindo",  "isRight": true},
          {"title": "Amando o Flutter"},
          {"title": "Muito Top"},
-         {"title": "Show de bola", "isRight": true}
+         {"title": "Show de bola"}
         ]
       }
     ]
