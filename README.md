@@ -4,7 +4,7 @@
 
 Um aplicativo desenvolvido durante a semana **Next Level Week#5** da [Rocketseat](https://www.rocketseat.com.br).
 
-Um Quiz com informações sobre o tecnologias em geral para você testar seu conhecimento ✍🏽
+Um Quiz com informações sobre tecnologias em geral para você testar seu conhecimento ✍🏽
 
 ## Tecnologias utilizadas 🚀
 
